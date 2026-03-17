@@ -1,0 +1,6 @@
+module.exports = {
+  user: "admin",
+  password: "P@ssw0rd123!",
+  host: "db.internal",
+  database: "production_db"
+};
