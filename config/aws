@@ -1,0 +1,5 @@
+module.exports = {
+  accessKeyId: "AKIAFAKEKEY123456789",
+  secretAccessKey: "fakeSecretKey/with+symbols123",
+  region: "us-east-1"
+};
